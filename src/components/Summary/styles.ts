@@ -9,7 +9,7 @@ export const Container = styled.div`
   /* espaçamento em cada um dos itens do grid = gap */
   gap: 2rem;
 
-  margin-top: -10rem;
+  margin-top: -7.2rem;
 
   div {
     background: var(--shape);

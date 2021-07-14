@@ -9,7 +9,7 @@ export const Content = styled.div`
   margin: 0 auto;
 
   /* Lembrando: 1rem equivale ao tamanho do fontsize do root do html */
-  padding: 2rem 1rem 12rem;
+  padding: 2rem 1rem 10rem;
   display: flex;
   align-items: center;
   justify-content: space-between;
